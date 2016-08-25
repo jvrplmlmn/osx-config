@@ -9,3 +9,6 @@ else
   echo "brew already installed"
 fi
 
+# homebrew-cask: https://github.com/caskroom/homebrew-cask
+brew cask
+
