@@ -7,3 +7,5 @@ brew cask install java
 
 brew cask install virtualbox
 brew cask install vagrant
+
+brew cask install adobe-reader
