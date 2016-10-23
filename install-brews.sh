@@ -8,3 +8,7 @@ brew install watch
 
 brew install git
 brew install hub
+
+brew install awscli
+
+brew install rbenv
