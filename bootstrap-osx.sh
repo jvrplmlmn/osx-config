@@ -9,6 +9,9 @@ else
   echo "brew already installed"
 fi
 
+# Disable Brew analytics (it is opt-out)
+brew analytics off
+
 # homebrew-cask: https://github.com/caskroom/homebrew-cask
 brew cask
 
