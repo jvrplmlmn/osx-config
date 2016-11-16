@@ -3,6 +3,7 @@
 brew update
 
 brew install python
+brew install flake8
 brew install tree
 brew install watch
 
