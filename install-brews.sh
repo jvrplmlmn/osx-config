@@ -8,6 +8,7 @@ brew install tree
 brew install watch
 
 brew install jq
+brew install httpie
 
 brew install git
 brew install hub
