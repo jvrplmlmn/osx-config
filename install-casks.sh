@@ -10,6 +10,7 @@ brew cask install chefdk
 brew cask install docker
 brew cask install flux
 brew cask install google-chrome
+brew cask install inspec
 brew cask install iterm2
 brew cask install java
 brew cask install kube-solo
