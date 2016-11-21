@@ -16,3 +16,5 @@ brew install hub
 brew install awscli
 
 brew install rbenv
+
+brew install kubectl

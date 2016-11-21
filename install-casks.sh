@@ -13,7 +13,7 @@ brew cask install google-chrome
 brew cask install inspec
 brew cask install iterm2
 brew cask install java
-brew cask install kube-solo
+brew cask install minikube
 brew cask install slack
 brew cask install the-unarchiver
 brew cask install vagrant
