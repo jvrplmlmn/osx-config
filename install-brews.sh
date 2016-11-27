@@ -18,3 +18,4 @@ brew install awscli
 brew install rbenv
 
 brew install kubectl
+brew install nmap
