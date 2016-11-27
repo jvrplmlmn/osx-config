@@ -17,5 +17,6 @@ brew install awscli
 
 brew install rbenv
 
+brew install cheat
 brew install kubectl
 brew install nmap
