@@ -11,6 +11,7 @@ brew cask install docker
 brew cask install flux
 brew cask install google-chrome
 brew cask install google-drive
+brew cask install hammerspoon
 brew cask install inspec
 brew cask install iterm2
 brew cask install java
