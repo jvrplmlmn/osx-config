@@ -16,7 +16,7 @@ brew install go
 brew install httpie
 brew install hub
 brew install jq
-brew install kubectl
+brew install kubernetes-cli
 brew install nmap
 brew install pre-commit
 brew install python
