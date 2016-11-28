@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+# This can be generated with:
+#  brew leaves | awk '{ print "brew install " $0 }'
+
 brew update
 
 brew install python
