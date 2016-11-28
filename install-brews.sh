@@ -24,5 +24,6 @@ brew install python3
 brew install rbenv
 brew install tree
 brew install watch
+brew install wget
 brew install youtube-dl
 brew install zsh
