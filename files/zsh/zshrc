@@ -1,0 +1,17 @@
+# Path to your oh-my-zsh installation.
+export ZSH=$HOME/.oh-my-zsh
+
+# Set name of the theme to load.
+ZSH_THEME="robbyrussell"
+
+# Which plugins would you like to load?
+plugins=()
+
+source $ZSH/oh-my-zsh.sh
+
+# User configuration
+alias ga='git add'
+alias gd='git diff'
+alias gst='git status'
+alias glog='git log --oneline --decorate --graph'
+alias gwch'git whatchanged -p --abbrev-commit --pretty=medium'
