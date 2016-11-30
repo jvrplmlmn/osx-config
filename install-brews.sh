@@ -13,6 +13,7 @@ brew install flake8
 brew install git
 brew install glide
 brew install go
+brew install htop
 brew install httpie
 brew install hub
 brew install jq
