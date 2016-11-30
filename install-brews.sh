@@ -23,6 +23,7 @@ brew install pre-commit
 brew install python
 brew install python3
 brew install rbenv
+brew install tldr
 brew install tree
 brew install watch
 brew install wget
