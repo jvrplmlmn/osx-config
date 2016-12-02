@@ -6,6 +6,7 @@
 brew cask install adobe-reader
 brew cask install amethyst
 brew cask install atom
+brew cask install basictex
 brew cask install chefdk
 brew cask install dash
 brew cask install docker
