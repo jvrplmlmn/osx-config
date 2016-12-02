@@ -8,6 +8,7 @@ apm install language-chef
 apm install language-docker
 apm install language-groovy
 apm install language-hcl
+apm install language-latex
 apm install language-lua
 apm install language-terraform
 apm install linter
