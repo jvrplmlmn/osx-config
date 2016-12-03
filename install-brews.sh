@@ -25,6 +25,7 @@ brew install pre-commit
 brew install python
 brew install python3
 brew install ruby-install
+brew install rust
 brew install tldr
 brew install tree
 brew install watch
