@@ -6,6 +6,7 @@
 brew update
 
 brew install awscli
+brew install bash
 brew install binutils
 brew install cheat
 brew install chruby
