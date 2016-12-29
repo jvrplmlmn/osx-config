@@ -11,6 +11,7 @@ brew install binutils
 brew install cheat
 brew install chruby
 brew install coreutils
+brew install elixir
 brew install flake8
 brew install git
 brew install glide
