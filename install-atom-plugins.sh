@@ -4,6 +4,7 @@
 #  apm list --packages --installed --bare | grep . | cut -d"@" -f 1 | awk '{ print "apm install " $0 }'
 
 apm install file-icons
+apm install go-plus
 apm install language-chef
 apm install language-docker
 apm install language-groovy
