@@ -23,6 +23,7 @@ brew install hub
 brew install jq
 brew install kubernetes-cli
 brew install nmap
+brew install node.js
 brew install pre-commit
 brew install python
 brew install python3
