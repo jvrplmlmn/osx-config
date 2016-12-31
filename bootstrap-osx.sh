@@ -15,3 +15,6 @@ brew analytics off
 # homebrew-cask: https://github.com/caskroom/homebrew-cask
 brew cask
 
+# homebrew-services: https://github.com/Homebrew/homebrew-services
+# Integrates Homebrew formulae with macOS's launchctl manager.
+brew tap homebrew/services
