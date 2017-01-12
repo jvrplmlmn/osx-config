@@ -17,7 +17,7 @@ function use_terraform {
       pushd ${TF_BASE}/${TF_VERSION}
       sudo wget "https://releases.hashicorp.com/terraform/${TF_VERSION}/terraform_${TF_VERSION}_darwin_amd64.zip"
       sudo unzip terraform_${TF_VERSION}_darwin_amd64.zip
-      sudo rm -f terraform_0.7.9_darwin_amd64.zip
+      sudo rm -f terraform_${TF_VERSION}_darwin_amd64.zip
       popd
     fi
 
