@@ -12,6 +12,7 @@ brew cask install dash
 brew cask install docker
 brew cask install flux
 brew cask install google-chrome
+brew cask install google-cloud-sdk
 brew cask install google-drive
 brew cask install hammerspoon
 brew cask install inspec
