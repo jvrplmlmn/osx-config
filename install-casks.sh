@@ -4,6 +4,7 @@
 #  brew cask list -1 | awk '{ print "brew cask install " $0 }'
 
 brew cask install adobe-reader
+brew cask install aerial
 brew cask install amethyst
 brew cask install atom
 brew cask install basictex
