@@ -30,6 +30,7 @@ brew install python3
 brew install redis
 brew install ruby-install
 brew install rust
+brew install telnet
 brew install tldr
 brew install tree
 brew install watch
