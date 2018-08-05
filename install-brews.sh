@@ -17,6 +17,7 @@ brew install git
 brew install glide
 brew install gnupg
 brew install go
+brew install gradle
 brew install htop
 brew install httpie
 brew install hub
