@@ -18,6 +18,7 @@ brew cask install google-cloud-sdk
 brew cask install google-drive
 brew cask install hammerspoon
 brew cask install inspec
+brew cask install intellij-idea-ce
 brew cask install iterm2
 brew cask install java
 brew cask install minikube
