@@ -22,6 +22,7 @@ brew cask install intellij-idea-ce
 brew cask install iterm2
 brew cask install java
 brew cask install minikube
+brew cask install pycharm-ce
 brew cask install slack
 brew cask install the-unarchiver
 brew cask install vagrant
