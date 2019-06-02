@@ -15,3 +15,9 @@ alias gd='git diff'
 alias gst='git status'
 alias glog='git log --oneline --decorate --graph'
 alias gwch='git whatchanged -p --abbrev-commit --pretty=medium'
+
+for cfg in ~/.zshrc.d/*.sh
+do
+    echo "Loading config: $cfg"
+    source $cfg
+done
