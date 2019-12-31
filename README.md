@@ -12,7 +12,4 @@
 
 # OSX Applications
 ./install-casks.sh
-
-# Atom: Install plugins
-./install-atom-plugins.sh
 ```
