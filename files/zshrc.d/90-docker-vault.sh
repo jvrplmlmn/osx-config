@@ -1,3 +1,4 @@
+# shellcheck shell=bash
 function docker_vault {
 docker run \
   --rm \

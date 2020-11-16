@@ -1,3 +1,5 @@
+# shellcheck shell=bash
+
 function docker_consul {
 docker run \
   --rm \

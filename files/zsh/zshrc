@@ -1,3 +1,10 @@
+# shellcheck shell=bash
+# shellcheck disable=SC1090
+# shellcheck disable=SC2034
+#
+# SC1090: Can't follow non-constant source. Use a directive to specify location.
+# SC2034: foo appears unused. Verify it or export it.
+
 # Path to your oh-my-zsh installation.
 export ZSH=$HOME/.oh-my-zsh
 
@@ -7,7 +14,7 @@ ZSH_THEME="robbyrussell"
 # Which plugins would you like to load?
 plugins=()
 
-source $ZSH/oh-my-zsh.sh
+source "$ZSH/oh-my-zsh.sh"
 
 # User configuration
 alias ga='git add'
@@ -19,5 +26,5 @@ alias gwch='git whatchanged -p --abbrev-commit --pretty=medium'
 for cfg in ~/.zshrc.d/*.sh
 do
     echo "Loading config: $cfg"
-    source $cfg
+    source "$cfg"
 done
