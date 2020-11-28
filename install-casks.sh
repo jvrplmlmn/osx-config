@@ -4,6 +4,7 @@
 #  brew cask list -1 | awk '{ print "brew cask install " $0 }'
 
 brew cask install aerial
+brew cask install anki
 brew cask install basictex
 brew cask install dash
 brew cask install docker
